@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/5tl3xm0yg706ek0o?svg=true)](https://ci.appveyor.com/project/AnnaAlexandrova1/ra-less1-task2-class)
+[![Build status](https://ci.appveyor.com/api/projects/status/ff6hby7acn8ddq22?svg=true)](https://ci.appveyor.com/project/AnnaAlexandrova1/ra-less1-task2-class)
 
 Страница интернет-магазина
 ===
